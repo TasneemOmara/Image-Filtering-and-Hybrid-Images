@@ -1,0 +1,2 @@
+# Image-Filtering-and-Hybrid-Images
+This repository presents is an image convolution function (image filtering) used it to create hybrid images. The technique was invented by Oliva, Torralba, and Schyns in 2006, and published in a paper at SIGGRAPH. High frequency image content tends to dominate perception but, at a distance, only low frequency (smooth) content is perceived. By blending high and low frequency content, we can create a hybrid image that is perceived differently at different distances. This project is in a computer vision course. 
